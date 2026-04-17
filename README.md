@@ -1,4 +1,4 @@
-# Budget-Based Restaurant Recommender
+# Lab 3: Budget-Based Restaurant Recommender
 
 A Java application that suggests restaurants based on user-provided spending limits and preferences for various food items.
 
